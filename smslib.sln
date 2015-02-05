@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smslib", "smslib\smslib.csproj", "{856569AE-13A3-4749-A3C0-05E3C3180217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testapplication", "Testapplication\Testapplication.csproj", "{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856569AE-13A3-4749-A3C0-05E3C3180217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856569AE-13A3-4749-A3C0-05E3C3180217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856569AE-13A3-4749-A3C0-05E3C3180217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856569AE-13A3-4749-A3C0-05E3C3180217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
