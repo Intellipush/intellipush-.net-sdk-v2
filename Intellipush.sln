@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smslib", "smslib\smslib.csproj", "{856569AE-13A3-4749-A3C0-05E3C3180217}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intellipush", "Intellipush\Intellipush.csproj", "{856569AE-13A3-4749-A3C0-05E3C3180217}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testapplication", "Testapplication\Testapplication.csproj", "{A3F324CE-E1F8-43C3-BBF5-A2E215010FA6}"
 EndProject
