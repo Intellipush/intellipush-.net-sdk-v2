@@ -1,7 +1,7 @@
 Intellipush SDK for .NET
 ====================
 
-This repository contains the open source .NET SDK that allows you to access Intellipush from your desired .NET application.
+This repository contains the open source .NET SDK that allows you to access Intellipush from your favorite .NET language.
 
 Usage with C#
 -----
@@ -18,7 +18,7 @@ Sms sms = new Sms("Hello World", new PhoneNumber("0047", "12345678"));
 string response = sms.Create();
 ```
 
-Create a SMS to multiple receivers:
+Create a SMS with multiple receivers:
 ```csharp
 List<PhoneNumber> receivers = new List<PhoneNumber>();
 receivers.Add(new PhoneNumber("0047", "1234567"));
