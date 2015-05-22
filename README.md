@@ -32,7 +32,7 @@ sms.When(DateTime.Now.AddMinutes(20));
 response = sms.Create();
 ```
 
-[Intellipush C# SDK documentation ](https://www.intellipush.com/documentation/.net-sdk)
+[Intellipush C# SDK documentation ](https://www.intellipush.com/documentation/net-sdk)
 
 
 Sign up
